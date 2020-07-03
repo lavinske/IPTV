@@ -590,7 +590,7 @@ http://brhn.xyz/stream/sc/tvn.php
 http://brhn.xyz/stream/sc/tvnm.php
 
 #EXTINF:0 tvg-id="TVNMovies.MACAN" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="H. Asia Channel", TVN Movies Backup
-http://brhn.xyz/stream/sc/tvnm.php
+http://brhn.xyz/stream/m3u/tvnmovies-iptvwow.m3u
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="H. Asia Channel", K Plus
 http://brhn.xyz/useetvgo/m3u/kplus.m3u8
