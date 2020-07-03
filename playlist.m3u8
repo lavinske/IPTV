@@ -575,22 +575,22 @@ http://livecdnh1.tvanywhere.ae/hls/zing/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zoom/03.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://images.useetv.com/logogrey/grey_logo_ikonser_big.png" group-title="G. Music Channel", I Konser
-http://brhn.xyz/kochenk/ekonser.php
+http://brhn.xyz/stream/sc/ekonser.php
 
 
 
 ######## H. Asia Channel #########
 #EXTINF:0 tvg-id="TVN.MACAN" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/TvN_Old.jpg" group-title="H. Asia Channel", TVN
-http://brhn.xyz/kochenk/tvn.php
+http://brhn.xyz/stream/sc/tvn.php
 
 #EXTINF:0 tvg-id="TVN.MACAN" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/TvN_Old.jpg" group-title="H. Asia Channel", TVN Backup
-http://brhn.xyz/kochenk/tvn.php
+http://brhn.xyz/stream/sc/tvn.php
 
 #EXTINF:0 tvg-id="TVNMovies.MACAN" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="H. Asia Channel", TVN Movies
-http://brhn.xyz/kochenk/tvnm.php
+http://brhn.xyz/stream/sc/tvnm.php
 
 #EXTINF:0 tvg-id="TVNMovies.MACAN" tvg-name="" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/published/tvn-movies-horizontal-logo.jpg" group-title="H. Asia Channel", TVN Movies Backup
-http://brhn.xyz/kochenk/tvnm.php
+http://brhn.xyz/stream/sc/tvnm.php
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="H. Asia Channel", K Plus
 http://brhn.xyz/useetvgo/m3u/kplus.m3u8
